@@ -7,3 +7,5 @@
 # Pandas
 
 [Pandas tutorial 1](https://github.com/NIRAJANRIJAL1/NumPy-Pandas-Matplotlib/blob/main/Pandas%20Tutorial%201.pdf)<br />
+
+[Pandas tutorial 2](https://github.com/NIRAJANRIJAL1/NumPy-Pandas-Matplotlib/blob/main/Pandas%20Tutorial%202.pdf)<br />
